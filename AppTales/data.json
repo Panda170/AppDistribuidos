@@ -1,0 +1,19 @@
+{
+	"data": {
+		"Users": [{
+			"id": "0",
+			"name": "Javier Otoño",
+			"tale": {
+				"tittle": "El Rey Rana o Enrique el Férreo",
+				"history": "En aquellos remotos tiempos, en que bastaba desear una cosa para tenerla, vivía un rey que tenía unas hijas lindísimas, especialmente la menor, la cual era tan hermosa que hasta el sol, que tantas cosas había visto, se maravillaba cada vez que sus rayos se posaban en el rostro de la muchacha. Junto al palacio real extendíase un bosque grande y oscuro, y en él, bajo un viejo tilo, fluía un manantial. En las horas de más calor, la princesita solía ir al bosque y sentarse a la orilla de la fuente. Cuando se aburría, poníase a jugar con una pelota de oro, arrojándola al aire y recogiéndola, con la mano, al caer; era su juguete favorito."
+			}
+		}, {
+			"id": "1",
+			"name": "Miguel Alcantara",
+			"tale": {
+				"tittle": "El gato y el ratón hacen vida en común",
+				"history": "Un gato había trabado conocimiento con un ratón, y tales protestas le hizo de cariño y amistad que, al fin, el ratoncito se avino a poner casa con él y hacer vida en común. Pero tenemos que pensar en el invierno,pues de otro modo pasaremos hambre,dijo el gato.Tú,ratoncillo,no puedes aventurarte por todas partes,al fin caerías en alguna ratonera.Siguiendo,pues,aquel previsor consejo,compraron un pucherito lleno de manteca.Pero luego se presentó el problema de dónde lo guardarían,hasta que,tras larga reflexión,propuso el gato: Mira,el mejor lugar es la iglesia.Allí nadie se atreve a robar nada."
+			}
+		}]
+	}
+}
